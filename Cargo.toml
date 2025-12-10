@@ -1,0 +1,9 @@
+[package]
+name = "ride"
+version = "0.1.0"
+edition = "2021"
+description = "A minimal Rust IDE written in Rust"
+license = "MIT"
+repository = "https://github.com/yourusername/ride"
+
+[dependencies]
